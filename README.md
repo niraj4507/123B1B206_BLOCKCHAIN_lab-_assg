@@ -1,8 +1,8 @@
 # 🧠 Blockchain Lab Assignments
 
 ## 👤 Student Details
-- **Name:** Prathmesh Marathe  
-- **Roll Number:** 123B1B186
+- **Name:** Niraj Kumar Yadav  
+- **Roll Number:** 123B1B206
 - **Course Name:** Blockchain Lab  
 
 ---
